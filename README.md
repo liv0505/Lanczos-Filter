@@ -7,4 +7,4 @@ Details of Lanczos Filter could be found [here](https://journals.ametsoc.org/doi
 
 ## Data:
 I used EAR5 reanalysis hourly 850hPa vorticity.<br> 
-Results are presented for Jul–Oct although data in June and November are also needed because the time filter (see section 2b) requires extra data at the beginning and end of each year’s time series.
+Results are presented for Jul–Oct although data in June and November are also needed because the time filter requires extra data at the beginning and end of each year’s time series.
